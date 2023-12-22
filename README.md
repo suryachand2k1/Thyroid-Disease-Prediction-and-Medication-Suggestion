@@ -29,19 +29,12 @@ python ThyroidDiseasePrediction.py
 
 ## Documentation
 
-Further documentation is available [here](link-to-documentation).
+Further documentation is available in the folder
 
-## Running Tests
-
-To run tests:
-
-```bash
-pytest
-```
 
 ## Deployment
 
-Guidelines for deploying this application in a clinical setting are included.
+Guidelines for deploying this application are included.
 
 ## Built With
 
@@ -49,24 +42,3 @@ Guidelines for deploying this application in a clinical setting are included.
 - SciKit-Learn - Used for implementing SVM
 - Pandas & NumPy - For data manipulation
 
-## Contributing
-
-Please read [CONTRIBUTING.md](link) for details on our code of conduct and the process for submitting pull requests.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For available versions, see the [tags on this repository](link).
-
-## Authors
-
-- **[Your Name]** - *Initial work* - [YourUsername](link)
-
-Contributors list available [here](link-to-contributors).
-
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Acknowledge any inspiration, code bases, or datasets used.
