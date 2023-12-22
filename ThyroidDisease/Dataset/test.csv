@@ -1,0 +1,7 @@
+on_thyroxine,query_on_thyroxine,on_antithyroid_medication,thyroid_surgery,query_hypothyroid,query_hyperthyroid,pregnant,sick,tumor,lithium,goitre,TSH_measured,T3_measured,TT4_measured,T4U_measured,FTI_measured,age,sex,TSH,T3,TT4,T4U,FTI
+0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,84,0,0.0,0.9,90.0,0.88,102.0
+0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,83,0,0.92,0.9,86.0,0.76,113.0
+1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,24,0,66.0,1.0,112.0,1.01,110.0
+0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,56,0,5.8,1.4,64.0,0.82,77.0
+0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,51,1,0.0,2.2,129.0,1.05,122.0
+0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,58,1,0.0,2.1,111.0,1.03,108.0
